@@ -1,0 +1,9 @@
+Debug
+Release
+.vs
+*.sln
+SearchServer/Debug
+SearchServer/Release
+*.vcxproj
+*.filters
+*.user
